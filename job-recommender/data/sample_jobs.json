@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Data Analyst Intern",
+    "company": "InsightWorks",
+    "location": "Bangalore, India (Hybrid)",
+    "url": "https://example.com/jobs/insightworks-data-analyst-intern",
+    "description": "Work with Python, SQL and pandas to clean and analyze datasets. Build dashboards and present insights. Prefer candidates with basic statistics and data visualization (Matplotlib/Plotly)."
+  },
+  {
+    "title": "Machine Learning Intern",
+    "company": "AI Foundry",
+    "location": "Pune, India (Onsite)",
+    "url": "https://example.com/jobs/aifoundry-ml-intern",
+    "description": "Assist in training and evaluating ML models. Knowledge of scikit-learn, basic deep learning, and data preprocessing required. Good understanding of Python and Jupyter notebooks."
+  },
+  {
+    "title": "Backend Developer (Junior)",
+    "company": "CloudCart",
+    "location": "Remote (India)",
+    "url": "https://example.com/jobs/cloudcart-backend-junior",
+    "description": "Build and maintain backend services in Python (FastAPI/Flask). Experience with REST APIs, SQL databases, and unit testing. Familiarity with Docker is a plus."
+  },
+  {
+    "title": "Data Engineer - Entry Level",
+    "company": "DataPipelines Co.",
+    "location": "Hyderabad, India (Onsite)",
+    "url": "https://example.com/jobs/datapipelines-de-entry",
+    "description": "Design ETL pipelines, manage data warehouses, and optimize SQL queries. Exposure to cloud platforms (GCP/AWS) and Python preferred."
+  },
+  {
+    "title": "Business Analyst Intern",
+    "company": "MarketPulse",
+    "location": "Remote (India)",
+    "url": "https://example.com/jobs/marketpulse-ba-intern",
+    "description": "Gather requirements, analyze KPIs, and create reports. Basics of Excel, SQL and stakeholder communication helpful. Opportunity to learn product analytics."
+  }
+]

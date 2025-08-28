@@ -1,0 +1,6 @@
+steps
+
+1. cd - for directory change
+2. C:\Users\Admin\Downloads\job-recommender - directory path
+3. ls - for list check
+4. cls - for clear cmd commands

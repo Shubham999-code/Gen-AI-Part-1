@@ -1,0 +1,11 @@
+job_id,title,company,location,description
+1,Data Engineer,TechNova,Pune,"Build and maintain ETL pipelines, work with big data tools, optimize SQL queries."
+2,Data Analyst,InsightPro,Mumbai,"Analyze datasets, create dashboards in Power BI, and present insights to stakeholders."
+3,Machine Learning Engineer,AIWorks,Bangalore,Develop and deploy ML models using Python and TensorFlow.
+4,Cloud Data Engineer,Cloudify,Hyderabad,"Implement data pipelines on AWS, work with S3, Redshift, and Glue."
+5,BI Developer,Dashlytics,Delhi,Design and develop BI reports using Power BI and SQL Server.
+6,Python Developer,CodeGen,Chennai,"Build backend services in Python, integrate APIs, and maintain databases."
+7,Big Data Engineer,DataXpress,Pune,"Work with Hadoop, Spark, and Kafka to process large-scale datasets."
+8,ETL Developer,DataLink,Kolkata,"Design and maintain ETL workflows, work with SQL and data warehouses."
+9,AI Researcher,DeepMind Labs,Bangalore,"Research AI models, publish papers, and build prototypes."
+10,Database Administrator,DBSecure,Mumbai,"Manage database performance, security, and backups."
